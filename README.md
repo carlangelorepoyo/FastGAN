@@ -1,5 +1,5 @@
 # FastGAN
-Fork of FastGAN-pytorch. Original repo [here](htthttps://github.com/odegeasslbc/FastGAN-pytorch)
+Fork of FastGAN-pytorch
 
 # A Fast and Stable GAN for Small and High Resolution Imagesets - pytorch
 The official pytorch implementation of the paper "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis", the paper can be found [here](https://arxiv.org/abs/2101.04775).
